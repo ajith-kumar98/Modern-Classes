@@ -1,0 +1,120 @@
+body{
+  background-color: #002058;
+  color: white;
+}
+p{
+  color: #EEEEEE;
+}
+.lmore{
+  text-decoration: none;
+  color: #579a95;
+}
+.lomre:hover{
+  color: white;
+}
+/* header box */
+.navbar-nav{
+  padding-right: 3rem;
+}
+.navbar-dark{
+  color: white;
+}
+.navbar-brand{
+  font-size: 2em;
+  padding-left: 3rem;
+}
+.navbar-toggler{
+  margin-right: 2rem;
+}
+.collapse{
+  margin-left: 3rem;
+  text-align: center;
+}
+.ap{
+  margin: .5rem;
+  margin-left: 0;
+}
+.btn-secondary{
+  margin: .5rem;
+}
+.bg{
+  background-color: #3D628F;
+}
+.title-image{
+  width: 100%;
+}
+.modern-title{
+  padding-top: 6rem;
+  line-height: 2.5rem;
+}
+.text1{
+  padding-left: 3rem;
+}
+.fab{
+  padding: .5rem;
+}
+/* second box */
+.second-img{
+  width: 100%;
+  margin-top: -10rem;
+  padding-top: 2rem;
+}
+.text2{
+   padding-top:  1rem;
+   padding-left: 3rem;
+}
+/* third box */
+.third-img{
+  width: 100%;
+  margin-top: -10rem;
+  padding-top: 6rem;
+}
+.text3{
+  padding-top: 3rem;
+  padding-left: 3rem;
+}
+/* fourth box */
+.fourth-img{
+  width: 100%;
+  margin-top: -10rem;
+  padding-top: 3rem;
+}
+.text4{
+  padding-top: 3rem;
+  padding-left: 2rem;
+}
+/* menu box */
+.menu{
+  padding: 4% 7%;
+  text-align: center;
+}
+
+.menu1{
+  width: 15em;
+
+
+}
+.menu2{
+  width: 15em;
+
+
+}
+.menu3{
+  width: 15em;
+
+}
+.ppdes{
+  width: 50%;
+  margin: auto;
+}
+/* footer box */
+.footer{
+  text-align: center;
+  background-image: linear-gradient(#002058, black);
+}
+.footlogo{
+  width: 10%;
+}
+.bottomfoot{
+  padding: 5%;
+}
